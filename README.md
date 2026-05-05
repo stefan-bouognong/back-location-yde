@@ -65,3 +65,4 @@ Par défaut : `http://localhost:3000` — santé : `GET /api/health`.
 
 Les images sont des URLs (ex. Cloudinary) uploadées **depuis le frontend** ; l’API ne gère pas Cloudinary.
 # back-location-yde
+# yde-loc-backend
